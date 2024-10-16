@@ -1,0 +1,6 @@
+@AggregateLoops_HostAddress = http://localhost:5210
+
+GET {{AggregateLoops_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
